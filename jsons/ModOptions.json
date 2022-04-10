@@ -1,0 +1,5 @@
+{
+  constants:{
+    maxXPfromBarbarians = 10000
+  }
+}
